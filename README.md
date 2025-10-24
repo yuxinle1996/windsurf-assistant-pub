@@ -15,12 +15,8 @@
 - 导入账号
 - 导出账号
 - 自动更新
+- 公告通知
+- 卡密充值
+- MCP 与 Rules 备份/恢复/添加/编辑/删除
 
-## ⏱️ TODO
-
-- 公告功能
-- windsurf 备份
-- 充值功能(wxpay)
-- 暗黑主题
-
-<img src=".\images\windsurf-assistant_1.png" style="zoom:50%;" /> <img src=".\images\windsurf-assistant_2.png" style="zoom:50%;" /> <img src=".\images\windsurf-assistant_3.png" style="zoom:50%;" /> <img src=".\images\windsurf-assistant_4.png" style="zoom:50%;" />
+<img src=".\images\windsurf-1.png" style="zoom:50%;" /> <img src=".\images\windsurf-2.png" style="zoom:50%;" /> <img src=".\images\windsurf-3.png" style="zoom:50%;" /> <img src=".\images\windsurf-4.png" style="zoom:50%;" /> <img src=".\images\windsurf-5.png" style="zoom:50%;" /> <img src=".\images\windsurf-6.png" style="zoom:50%;" /> <img src=".\images\windsurf-7.png" style="zoom:50%;" />
